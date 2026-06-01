@@ -1,6 +1,8 @@
 ## Hi! My name is Owen Yoo
 
-I am a rising senior at the University of Michigan (Go Blue 〽️) studying Statistics and Data Science 
+I am an incoming Biostatistics PhD student at the University of Pennsylvania Perleman School of Medicine.
+
+I previously attended the University of Michigan (Go Blue 〽️), studying Statistics and Data Science.
 
 My research interests lie in two main fields:
 
